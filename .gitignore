@@ -1,0 +1,47 @@
+*.py[co]
+
+# Packages
+*.egg
+*.egg-info
+dist
+build
+eggs
+parts
+bin
+var
+sdist
+develop-eggs
+.installed.cfg
+
+# Installer logs
+pip-log.txt
+logs/
+*.log
+
+# Unit test / coverage reports
+.tox
+.log
+.idea
+.DS_Store
+.idea
+
+#Translations
+*.mo
+
+#Mr Developer
+.mr.developer.cfg
+
+#virtual env folder
+envproj
+env
+proj
+.virtualenv
+
+dump/
+static/uploads
+
+#special files
+ignore*
+node_modules
+main-built*.*
+local_settings.py
